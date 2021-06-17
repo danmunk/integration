@@ -1,7 +1,7 @@
 {
-    "message": "hello",
-    "messages": [
-        "hi",
-        "there"
-    ]
+	"message": "hello",
+	"messages": [
+		"Issue Prefix 1",
+		"Issue Prefix 2"
+	]
 }
