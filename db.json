@@ -1,31 +1,19 @@
 {
-    "posts": [
+    "messages": [
       {
         "id": 1,
-        "title": "Post 1"
+        "prefix": "Prefix 1"
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "prefix": "Prefix 2"
       },
       {
         "id": 3,
-        "title": "Post 3"
+        "prefix": "Prefix 3"
       }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
+    ],    
     "profile": {
-      "name": "typicode"
+      "name": "demo"
     }
   }
