@@ -12,7 +12,15 @@
         "id": 3,
         "prefix": "Prefix 3"
       }
-    ],    
+    ],
+    
+    "contacts": [
+        "id": 1000,
+        "first_name": "Frank",
+        "last_name": "Thomas",
+        "email": "frank.thomas@gmail.com",
+        "phone": "(916) 508-3564"        
+    ],
     "profile": {
       "name": "demo"
     }
