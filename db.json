@@ -15,13 +15,37 @@
     ],
     
     "users": [
-    {
+        {
             "id": 1000,
             "first_name": "Frank",
             "last_name": "Thomas",
             "username": "fthomas",
             "email": "frank.thomas@gmail.com",
-            "phone": "(916) 508-3564"    
+            "status": "active"
+        },
+        {
+            "id": 1001,
+            "first_name": "Joan",
+            "last_name": "Rhoades",
+            "username": "joan.rhoades",
+            "email": "joan@rhoades.com",
+            "status": "active"
+        },
+        {
+            "id": 1002,
+            "first_name": "Sandy",
+            "last_name": "McFarlin",
+            "username": "smcfarlin",
+            "email": "smcfarlin@hotmail.com",
+            "status": "active"
+        },
+        {
+            "id": 1003,
+            "first_name": "Jake",
+            "last_name": "Burnworth",
+            "username": "burns",
+            "email": "burnworthjacob@gmail.com",
+            "status": "locked"
         }
     ],
     "profile": {
